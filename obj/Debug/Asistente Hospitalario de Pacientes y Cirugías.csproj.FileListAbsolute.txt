@@ -11,3 +11,15 @@ C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\obj\Debug\Asistent
 C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\obj\Debug\Asistente Hospitalario de Pacientes y Cirugías.csproj.AssemblyReference.cache
 C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\obj\Debug\Asistente_Hospitalario_de_Pacientes_y_Cirugías.LOGIN.resources
 C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\obj\Debug\Asistente_Hospitalario_de_Pacientes_y_Cirugías.PantallaPrincipal.resources
+C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\Asistente-Hospitalario\bin\Debug\Asistente Hospitalario de Pacientes y Cirugías.exe.config
+C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\Asistente-Hospitalario\bin\Debug\Asistente Hospitalario de Pacientes y Cirugías.exe
+C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\Asistente-Hospitalario\bin\Debug\Asistente Hospitalario de Pacientes y Cirugías.pdb
+C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\Asistente-Hospitalario\obj\Debug\Asistente Hospitalario de Pacientes y Cirugías.csproj.AssemblyReference.cache
+C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\Asistente-Hospitalario\obj\Debug\Asistente_Hospitalario_de_Pacientes_y_Cirugías.LOGIN.resources
+C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\Asistente-Hospitalario\obj\Debug\Asistente_Hospitalario_de_Pacientes_y_Cirugías.PantallaPrincipal.resources
+C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\Asistente-Hospitalario\obj\Debug\Asistente_Hospitalario_de_Pacientes_y_Cirugías.Properties.Resources.resources
+C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\Asistente-Hospitalario\obj\Debug\Asistente Hospitalario de Pacientes y Cirugías.csproj.GenerateResource.cache
+C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\Asistente-Hospitalario\obj\Debug\Asistente Hospitalario de Pacientes y Cirugías.csproj.CoreCompileInputs.cache
+C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\Asistente-Hospitalario\obj\Debug\Asistente Hospitalario de Pacientes y Cirugías.csproj.CopyComplete
+C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\Asistente-Hospitalario\obj\Debug\Asistente Hospitalario de Pacientes y Cirugías.exe
+C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\Asistente-Hospitalario\obj\Debug\Asistente Hospitalario de Pacientes y Cirugías.pdb

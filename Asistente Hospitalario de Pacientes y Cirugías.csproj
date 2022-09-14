@@ -49,6 +49,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DOCTOR-ALTAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DOCTOR-ALTAS.Designer.cs">
+      <DependentUpon>DOCTOR-ALTAS.cs</DependentUpon>
+    </Compile>
     <Compile Include="LOGIN.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -69,6 +75,9 @@
     <Compile Include="RoundPicture.cs">
       <SubType>Component</SubType>
     </Compile>
+    <EmbeddedResource Include="DOCTOR-ALTAS.resx">
+      <DependentUpon>DOCTOR-ALTAS.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LOGIN.resx">
       <DependentUpon>LOGIN.cs</DependentUpon>
     </EmbeddedResource>
