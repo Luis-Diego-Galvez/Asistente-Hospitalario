@@ -23,3 +23,7 @@ C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\Asistente-Hospital
 C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\Asistente-Hospitalario\obj\Debug\Asistente Hospitalario de Pacientes y Cirugías.csproj.CopyComplete
 C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\Asistente-Hospitalario\obj\Debug\Asistente Hospitalario de Pacientes y Cirugías.exe
 C:\INTERFACES\Asistente Hospitalario de Pacientes y Cirugías\Asistente-Hospitalario\obj\Debug\Asistente Hospitalario de Pacientes y Cirugías.pdb
+D:\Ciclo VIII\Tecnicas de Produccion\AHCP\Asistente-Hospitalario\obj\Debug\Asistente Hospitalario de Pacientes y Cirugías.csproj.AssemblyReference.cache
+D:\Ciclo VIII\Tecnicas de Produccion\AHCP\Asistente-Hospitalario\obj\Debug\Asistente Hospitalario de Pacientes y Cirugías.csproj.SuggestedBindingRedirects.cache
+D:\Ciclo VIII\Tecnicas de Produccion\AHCP\Asistente-Hospitalario\obj\Debug\Asistente Hospitalario de Pacientes y Cirugías.exe
+D:\Ciclo VIII\Tecnicas de Produccion\AHCP\Asistente-Hospitalario\obj\Debug\Asistente Hospitalario de Pacientes y Cirugías.pdb

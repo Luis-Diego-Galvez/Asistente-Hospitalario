@@ -64,6 +64,11 @@
     <Compile Include="GradientePanel.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Models\AreaMedica.cs" />
+    <Compile Include="Models\Departamento.cs" />
+    <Compile Include="Models\Especialidad.cs" />
+    <Compile Include="Models\Expediente.cs" />
+    <Compile Include="Models\Usuario.cs" />
     <Compile Include="PantallaPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -105,6 +110,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
