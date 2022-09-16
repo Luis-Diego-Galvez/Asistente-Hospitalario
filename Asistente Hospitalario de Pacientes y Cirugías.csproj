@@ -65,9 +65,13 @@
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Models\AreaMedica.cs" />
+    <Compile Include="Models\Cirugia.cs" />
     <Compile Include="Models\Departamento.cs" />
+    <Compile Include="Models\Doctor.cs" />
     <Compile Include="Models\Especialidad.cs" />
     <Compile Include="Models\Expediente.cs" />
+    <Compile Include="Models\Ingreso.cs" />
+    <Compile Include="Models\SalaMedica.cs" />
     <Compile Include="Models\Usuario.cs" />
     <Compile Include="PantallaPrincipal.cs">
       <SubType>Form</SubType>
